@@ -67,6 +67,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 #### spatie
+
+### EJEMPLO LINK
+
+    https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html
+
 ### Tecnologias utilizadas
 ##  laravel/ui
 ##  spatie
